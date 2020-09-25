@@ -202,9 +202,9 @@ public class JobApplicant_ShlokBhakta {
 		}		
 		
 		if (x >= 3){
-			System.out.println(name + " is a qualified emploee. Their number is " + num);
+			System.out.println(name + " is a qualified employee. Their number is " + num);
 		} else {
-			System.out.println(name + " is an unqualified emploee. Their number is " + num);
+			System.out.println(name + " is an unqualified employee. Their number is " + num);
 		}
 		
 	}
